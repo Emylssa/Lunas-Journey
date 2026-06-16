@@ -61,9 +61,8 @@ Clone este repositório:
 git clone https://github.com/Emylssa/Lunas-Journey.git
 Abra o projeto na Unity.
 Execute a cena Level1.
-👩‍💻 Desenvolvido por
 
-Emily da Silva Lessa
+👩‍💻 Desenvolvido por: Emily da Silva Lessa
 
 Projeto desenvolvido para a disciplina de Game Development, com o objetivo de aplicar conceitos de desenvolvimento de jogos 2D utilizando Unity e C#.
 
